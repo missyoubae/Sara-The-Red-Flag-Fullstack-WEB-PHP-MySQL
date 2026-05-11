@@ -1,2 +1,87 @@
-# Sara-The-Red-Flag-Fullstack-WEB-PHP-MySQL
-Official website of Sara The Red Flag 🚩  A full-stack PHP &amp; MySQL web application featuring: - User Registration &amp; Login System - Admin &amp; Staff Management Panel - App Upload &amp; Management - User Requests System - Comments &amp; Favorites - Role-based Access Control - Modern Red Theme UI  Built with HTML, CSS, JavaScript, PHP, and MySQL.
+# 🚩 Sara The Red Flag Website
+
+Official website of **Sara The Red Flag** 🚩
+
+A full-stack PHP & MySQL web application with:
+
+## ✅ Features
+
+- 🔐 User Registration & Login System
+- 👑 Admin & Staff Panel
+- 📱 App Upload & Management
+- 📬 User Request System
+- 💬 Comments System
+- ❤️ Favorites & Download History
+- 🔒 Role-Based Access Control
+- 🎨 Modern Red Theme UI
+
+---
+
+## 🛠 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- XAMPP
+
+---
+
+## 👥 Roles
+
+### 👑 Admin (Sara)
+- Full access
+- Manage staff
+- Change admin password
+- Ban users
+- Manage settings
+
+### 🛡️ Staff Members
+- Add / Edit / Delete Apps
+- View & Reply User Requests
+- Access Settings
+- Manage website content
+
+---
+
+## 📦 Database
+
+Database Name: saratheredflag
+
+
+Includes tables:
+- users
+- staff
+- apps
+- requests
+- comments
+- favorites
+- downloads
+- notifications
+
+---
+
+## 🚀 How To Run Locally
+
+1. Install XAMPP
+2. Start Apache & MySQL
+3. Put project inside:
+
+C:\xampp\htdocs\
+4. Open browser:
+
+http://localhost/saratheredflag/
+
+
+
+---
+
+## 📺 YouTube Channel
+
+Sara The Red Flag 🚩  
+https://www.youtube.com/@SaraTheRedFlagNew
+
+---
+
+Stay Techy, Stay Updated! 🚩
