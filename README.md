@@ -1,5 +1,7 @@
 # 🚩 Sara The Red Flag Website
 
+![image alt](https://github.com/missyoubae/Sara-The-Red-Flag-Fullstack-WEB-PHP-MySQL/blob/52ea8af4309b207bd47edd8dca7754a48feec70f/Screenshot.png)
+
 Official website of **Sara The Red Flag** 🚩
 
 A full-stack PHP & MySQL web application with:
